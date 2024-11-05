@@ -57,7 +57,7 @@ nav ul li a:hover {
 /* Main content */
 main {
     flex: 3;
-    background-color: #67ef0c;
+    background-color: #20a3db;
     padding: 1rem;
 }
 
@@ -84,11 +84,6 @@ img {
 p {
     font-size: 2000;
     font-style: italic;
-}
-
-.custom_image {
-    width: auto;
-    height: auto;
 }
 
 #special {
