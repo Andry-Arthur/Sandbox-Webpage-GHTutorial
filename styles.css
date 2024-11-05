@@ -57,7 +57,7 @@ nav ul li a:hover {
 /* Main content */
 main {
     flex: 3;
-    background-color: #f4f4f4;
+    background-color: #67ef0c;
     padding: 1rem;
 }
 
@@ -70,7 +70,7 @@ aside {
 
 /* Footer */
 footer {
-    background-color: #333;
+    background-color: #d21aaa;
     color: white;
     text-align: center;
     padding: 1rem;
