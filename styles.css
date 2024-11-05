@@ -86,6 +86,11 @@ p {
     font-style: italic;
 }
 
+.custom_image {
+    width: auto;
+    height: auto;
+}
+
 #special {
     background-color: #FF0000; 
     border: none;
